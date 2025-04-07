@@ -2,3 +2,5 @@ downloads/
 node_modules/
 package-lock.json
 urls.txt
+.DS_Store
+*.log
